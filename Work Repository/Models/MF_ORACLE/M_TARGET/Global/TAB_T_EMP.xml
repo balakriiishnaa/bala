@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="GjPVrU/8BIUuRMJCAhc2sw==" exportKeySalt="2a467bc1-7d85-4c90-abba-da6cb393f0ef" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="BW1adl+OKD50oLpuLUTXIA==" exportKeySalt="35d5f1db-8e99-40d2-a0a0-8c3761093642" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTable">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FileDecSep" type="java.lang.String">null</Field>
@@ -20,16 +20,16 @@
 	<Field name="HiveBuckets" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="HiveLocation" type="java.lang.String">null</Field>
 	<Field name="HiveRowFormat" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndErrDel" type="java.lang.String">null</Field>
 	<Field name="IndFilePosAuto" type="java.lang.String">null</Field>
 	<Field name="IndHiveManaged" type="java.lang.String">null</Field>
 	<Field name="IndHiveNative" type="java.lang.String">null</Field>
 	<Field name="IndJrn" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndShow" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IndWs" type="java.lang.String">null</Field>
+	<Field name="IndWs" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="InputFormat" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IScBaseTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="IScOrigTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -40,12 +40,12 @@
 	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITxtWsdl" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="JrnOrder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2023-12-09 14:01:18.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2023-12-09 17:20:44.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="OlapType" type="java.lang.String">null</Field>
 	<Field name="OutputFormat" type="java.lang.String">null</Field>
 	<Field name="PartitionMeth" type="java.lang.String">null</Field>
-	<Field name="ResName" type="java.lang.String"><![CDATA[T_EMP]]></Field>
+	<Field name="ResName" type="java.lang.String"><![CDATA[T_EMPq]]></Field>
 	<Field name="RCount" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="SchemaFile" type="java.lang.String">null</Field>
 	<Field name="ScOrigTableTag" type="java.lang.String">null</Field>
